@@ -13,8 +13,6 @@ namespace nasademo.Controllers
 
         public IActionResult nasademo( )
         {
-            
-           
             return View();
         }
 
